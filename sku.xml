@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/v1/xsl/xml_pretty_printer.xsl" type="text/xsl"?>
+<product>
+  <sku>6449688</sku>
+  <productId>1218737492901</productId>
+  <name>Bose® - SoundLink® Wireless Mobile Speaker II - Dark Gray</name>
+  <source>bestbuy</source>
+  <type>HardGood</type>
+  <startDate>2012-09-30</startDate>
+  <new>false</new>
+  <active>true</active>
+  <lowPriceGuarantee>true</lowPriceGuarantee>
+  <activeUpdateDate>2013-11-08T17:13:49</activeUpdateDate>
+  <regularPrice>299.99</regularPrice>
+  <salePrice>269.99</salePrice>
+  <onSale>true</onSale>
+  <planPrice/>
+  <priceWithPlan/>
+  <priceRestriction/>
+  <priceUpdateDate>2013-12-15T00:11:59</priceUpdateDate>
+  <digital>false</digital>
+  <preowned>false</preowned>
+  <carrierPlans/>
+  <technologyCode/>
+  <carrierModelNumber/>
+  <earlyTerminationFees/>
+  <outletCenter/>
+  <secondaryMarket/>
+  <frequentlyPurchasedWith/>
+  <accessories>
+    <sku>8826587</sku>
+  </accessories>
+  <relatedProducts>
+    <sku>9912574</sku>
+    <sku>9910764</sku>
+    <sku>9909768</sku>
+    <sku>9912908</sku>
+    <sku>6292469</sku>
+    <sku>9154107</sku>
+  </relatedProducts>
+  <techSupportPlans/>
+  <salesRankShortTerm>283</salesRankShortTerm>
+  <salesRankMediumTerm>274</salesRankMediumTerm>
+  <salesRankLongTerm>382</salesRankLongTerm>
+  <bestSellingRank>286</bestSellingRank>
+  <url>http://www.bestbuy.com/site/bose-soundlink-wireless-mobile-speaker-ii-dark-gray/6449688.p?id=1218737492901&amp;skuId=6449688&amp;cmp=RMX&amp;ky=1vAoRgyEd95qvGVqTwixZfwayG6S1IDNH</url>
+  <spin360Url/>
+  <mobileUrl>http://m.bestbuy.com/r/1218737492901/6449688/</mobileUrl>
+  <affiliateUrl/>
+  <addToCartUrl>http://www.bestbuy.com/site/olspage.jsp?id=pcmcat152200050035&amp;type=category&amp;cmp=RMX&amp;ky=1vAoRgyEd95qvGVqTwixZfwayG6S1IDNH&amp;qvsids=6449688</addToCartUrl>
+  <affiliateAddToCartUrl/>
+  <cjAffiliateUrl/>
+  <cjAffiliateAddToCartUrl/>
+  <linkShareAffiliateUrl/>
+  <linkShareAffiliateAddToCartUrl/>
+  <upc>017817587754</upc>
+  <productTemplate>Powered_Speakers</productTemplate>
+  <categoryPath>
+    <category>
+      <id>cat00000</id>
+      <name>Best Buy</name>
+    </category>
+    <category>
+      <id>abcat0200000</id>
+      <name>Audio &amp; MP3</name>
+    </category>
+    <category>
+      <id>abcat0208007</id>
+      <name>iPod &amp; MP3 Player Accessories</name>
+    </category>
+    <category>
+      <id>abcat0208011</id>
+      <name>iPod &amp; MP3 Player Speakers</name>
+    </category>
+  </categoryPath>
+  <lists/>
+  <customerReviewCount>59</customerReviewCount>
+  <customerReviewAverage>4.5</customerReviewAverage>
+  <format/>
+  <freeShipping>true</freeShipping>
+  <freeShippingEligible>true</freeShippingEligible>
+  <inStoreAvailability>true</inStoreAvailability>
+  <inStoreAvailabilityText>Store Pickup: Available at most stores</inStoreAvailabilityText>
+  <inStoreAvailabilityUpdateDate>2013-11-29T15:34:08</inStoreAvailabilityUpdateDate>
+  <itemUpdateDate>2013-12-19T09:42:29</itemUpdateDate>
+  <onlineAvailability>true</onlineAvailability>
+  <onlineAvailabilityText>Shipping: Available for delivery by December 24.</onlineAvailabilityText>
+  <onlineAvailabilityUpdateDate>2013-12-11T05:51:23</onlineAvailabilityUpdateDate>
+  <releaseDate/>
+  <shippingCost>0.00</shippingCost>
+  <shipping>
+    <ground>0.00</ground>
+    <secondDay>8.99</secondDay>
+    <nextDay>18.99</nextDay>
+    <vendorDelivery/>
+  </shipping>
+  <specialOrder>false</specialOrder>
+  <shortDescription>Compatible with most Bluetooth-enabled devices; indoor/outdoor use; volume control</shortDescription>
+  <class>SPEAKERS</class>
+  <classId>545</classId>
+  <subclass>WIRELESS SPEAKERS</subclass>
+  <subclassId>490</subclassId>
+  <department>AUDIO</department>
+  <departmentId>1</departmentId>
+  <buybackPlans/>
+  <protectionPlans>
+    <protectionPlan>
+      <sku>9998379</sku>
+      <name>2-Year Replacement Plan - Geek Squad</name>
+      <productId>1218318856137</productId>
+      <type>PSP-PRP</type>
+      <term>2YR</term>
+      <regularPrice>39.99</regularPrice>
+      <salePrice>39.99</salePrice>
+    </protectionPlan>
+  </protectionPlans>
+  <description/>
+  <manufacturer>Bose®</manufacturer>
+  <modelNumber>SOUNDLINK BT MOBILE II GRAY NY</modelNumber>
+  <image>http://images.bestbuy.com/BestBuy_US/images/products/6449/6449688_rc.jpg</image>
+  <largeFrontImage/>
+  <mediumImage>http://images.bestbuy.com/BestBuy_US/images/products/6449/6449688fp.gif</mediumImage>
+  <thumbnailImage>http://images.bestbuy.com/BestBuy_US/images/products/6449/6449688_r.gif</thumbnailImage>
+  <largeImage>http://images.bestbuy.com/BestBuy_US/images/products/6449/6449688_rb.jpg</largeImage>
+  <alternateViewsImage>http://images.bestbuy.com/BestBuy_US/images/products/6449/6449688cv1a.jpg</alternateViewsImage>
+  <angleImage>http://images.bestbuy.com/BestBuy_US/images/products/6449/6449688_ra.jpg</angleImage>
+  <backViewImage>http://images.bestbuy.com/BestBuy_US/images/products/6449/6449688_ba.jpg</backViewImage>
+  <energyGuideImage/>
+  <leftViewImage>http://images.bestbuy.com/BestBuy_US/images/products/6449/6449688le.jpg</leftViewImage>
+  <accessoriesImage/>
+  <remoteControlImage/>
+  <rightViewImage/>
+  <topViewImage>http://images.bestbuy.com/BestBuy_US/images/products/6449/6449688_ta.jpg</topViewImage>
+  <condition>New</condition>
+  <inStorePickup>true</inStorePickup>
+  <friendsAndFamilyPickup>false</friendsAndFamilyPickup>
+  <homeDelivery>false</homeDelivery>
+  <quantityLimit>5</quantityLimit>
+  <fulfilledBy>BestBuy.com</fulfilledBy>
+  <bundledIn/>
+  <color>Dark Gray</color>
+  <depth>1.9&quot;</depth>
+  <dollarSavings>30.00</dollarSavings>
+  <percentSavings>10.0</percentSavings>
+  <tradeInValue/>
+  <height>5.1&quot;</height>
+  <orderable>Available</orderable>
+  <weight>2.9 lbs.</weight>
+  <shippingWeight>5.12</shippingWeight>
+  <width>9.6&quot;</width>
+  <warrantyLabor>1 year</warrantyLabor>
+  <warrantyParts>1 year</warrantyParts>
+  <longDescription>Enjoy your music on the go with this Bose&amp;#174; SoundLink&amp;#174; wireless mobile speaker that features Bluetooth technology for an easy connection to compatible devices. The integrated bifold cover unfolds into a stand to enable versatile placement.</longDescription>
+  <includedItemList>
+    <includedItem>Bose® SoundLink® Wireless Mobile Speaker II</includedItem>
+    <includedItem>Power supply</includedItem>
+    <includedItem>Nylon cover</includedItem>
+    <includedItem>Owner&apos;s manual</includedItem>
+  </includedItemList>
+  <marketplace>false</marketplace>
+  <listingId/>
+  <sellerId/>
+  <shippingRestrictions/>
+  <numberOfSpeakers>1.0</numberOfSpeakers>
+</product>
